@@ -1,0 +1,3 @@
+2024-10-24 15:53:45,132 - INFO - Fetched 9 entries from both sources.
+2024-10-24 15:53:45,137 - INFO - Valid data has been written to exported_data_valid.csv.
+2024-10-24 15:53:45,138 - INFO - Invalid data has been written to exported_data_invalid.csv.

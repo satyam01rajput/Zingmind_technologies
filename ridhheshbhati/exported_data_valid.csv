@@ -1,0 +1,9 @@
+name,email,phone,gender,age,date,address,city,state,zipcode,country,salary
+Jayanth Fernandes,jayanth.fernandes@example.com (Valid),9284100275 (Valid),male (Valid),36 (Valid),1988-04-25 (Valid),1051 Pali Hill,Kozhikode,Mizoram,75246,India,"30,361.00"
+Baljiwan Bhardwaj,baljiwan.bhardwaj@example.com (Valid),7530685002 (Valid),male (Valid),57 (Valid),1967-04-18 (Valid),9423 Shivajinagar,Gandhidham,Puducherry,16652,India,"106,294.00"
+Rushali Raval,rushali.raval@example.com (Valid),9356337839 (Valid),female (Valid),43 (Valid),1981-09-07 (Valid),4596 Rani No Hajiro,Chandigarh,Delhi,72013,India,"109,415.00"
+Rishaan Babu,rishaan.babu@example.com (Valid),9454125884 (Valid),male (Valid),52 (Valid),1972-08-22 (Valid),1447 Chaman Ganj,Alappuzha,Madhya Pradesh,53648,India,"103,966.00"
+Lakshmi Jain,lakshmi.jain@example.com (Valid),8577468545 (Valid),female (Valid),28 (Valid),1996-06-28 (Valid),3907 Colaba Causeway,Sri Ganganagar,Chandigarh,31708,India,"67,999.00"
+Rayaan Nayak,rayaan.nayak@example.com (Valid),8806176453 (Valid),male (Valid),78 (Valid),1946-04-21 (Valid),1344 Lamington Rd,Chennai,Maharashtra,69479,India,"61,073.00"
+Neeti Kavser,neeti.kavser@example.com (Valid),8307617173 (Valid),female (Valid),47 (Valid),1977-07-01 (Valid),3466 Tank Bund Rd,Bhiwandi,Chhattisgarh,18980,India,"108,884.00"
+Dwarakanath Bhardwaj,dwarakanath.bhardwaj@example.com (Valid),8112110471 (Valid),male (Valid),32 (Valid),1992-09-04 (Valid),6691 Chaman Ganj,Mysore,Andaman and Nicobar Islands,80419,India,"73,251.00"
